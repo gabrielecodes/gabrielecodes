@@ -1,1 +1,1 @@
-# Nihil Difficile Volenti 👋
+# Nihil Difficile Volenti
