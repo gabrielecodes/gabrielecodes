@@ -2,7 +2,8 @@
 
 <ul>
   <li> I work with __data__</li>
-  <li> __Physics__ background, adopted interest for __software__</li>
-  <li>I write a [__blog__](https://gabrielecodes.github.com/interfaces_blog)</li>
-  <li> Ask me about __big__ and __small__ __data__, __rust__ tech curiosities</li>
+  <li> <storng>Physics</storng> background, adopted interest for <strong>software</strong></li>
+  <li>I write a <a href="https://gabrielecodes.github.com/interfaces_blog">blog</a></li>
+  <li> Ask me about <strong>big</strong> and <strong>small data</strong> and ant tech curiosity</li>
+  <li> Share you project, I may be able to help</li>
 </ul>
